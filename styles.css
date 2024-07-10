@@ -1,0 +1,44 @@
+.calc{
+    width: 400px;
+    height: 550px;
+    background: black;
+    margin-left: 500px;
+    border: 0ch;
+    border-radius: 20px;
+    margin-top: 30px;
+
+}
+#screen{
+    width: 80%;
+    margin-left: 36px;
+    height: 49px;
+    margin-top: 30px;
+    pointer-events: none;
+    background: gray;
+    border-radius: 9px;
+    border: 0cqb;
+}
+.btn{
+    width: 60px;
+    height: 45px;
+    margin-left: 30px;
+    margin-top: 30px;
+    background: bisque;
+    border-radius: 9%;
+    border: 0cqb;
+}
+
+#btn1,#btn2,#btn3,#btn4{
+    width: 60px;
+    height: 45px;
+    margin-left: 30px;
+    margin-top: 30px;
+    background: rgb(225, 117, 117);
+    border-radius: 40px;
+    border: 0dvi;
+    
+}
+
+.main-body{
+    margin-top: 60px;
+}
